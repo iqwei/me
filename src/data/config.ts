@@ -28,7 +28,7 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
   name: "Oleksandr Halashevskyi",
-  domain: "halashevskyi.nl",
+  domain: "ninetynine.dev",
   author: {
     name: "Oleksandr Halashevskyi",
     location: "Netherlands",
@@ -37,7 +37,7 @@ export const siteConfig: SiteConfig = {
   seo: {
     title: "Oleksandr Halashevskyi",
     description:
-      "Backend-leaning full-stack engineer.",
+      "Product Engineer",
   },
   analytics: {
     posthogDefaultsDate: "2025-05-24",
