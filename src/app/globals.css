@@ -15,6 +15,12 @@
 }
 
 @layer base {
+  * {
+    cursor:
+      url("https://cur.cursors-4u.net/games/gam-4/gam372.cur"),
+      auto !important;
+  }
+
   html,
   body {
     min-height: 100%;

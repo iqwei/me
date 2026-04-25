@@ -1,4 +1,4 @@
-# halashevskyi.nl
+# ninetynine.dev
 
 Personal website for me (Oleksandr Halashevskyi), built with Next.js App Router, React, Tailwind CSS, Motion and PostHog.
 
